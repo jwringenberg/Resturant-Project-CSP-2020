@@ -19,7 +19,7 @@ body{
   background-color: black;
 }
 
-#topNav li a{ 
+#topNav li a{
      text-decoration: none;
      font-family:monospace;
      font-size: 35px;
@@ -44,4 +44,22 @@ body{
   font-size: 15px;
   font-family: sans-serif;
   padding-top: 25px;
+}
+
+
+#hamTitle{
+  color: red;
+}
+
+#hamDes{
+  font-size: 35px;
+}
+
+#hamPic{
+  width: 350px;
+  height: 350px;
+}
+
+#fryTitle{
+  color:yellow;
 }
